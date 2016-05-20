@@ -27,7 +27,7 @@ navbar-links:
   Links:
     - FiveThirtyEight: "http://fivethirtyeight.com/"
     - R Bloggers: "http://www.r-bloggers.com/"
-    - Tableau Gallery Viz: "https://public.tableau.com/s/gallery?qt-overview_gallery=1"
+    - Tableau Viz of the Day: "https://public.tableau.com/s/gallery?qt-overview_gallery=1"
   #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
