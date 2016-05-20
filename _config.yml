@@ -44,7 +44,7 @@ author:
   facebook: yourname  # eg. daattali
   github: johnsug    # eg. daattali
   twitter: yourname   # eg. daattali
-  linkedin: yourlink  # eg. "in/johnsugden"
+  linkedin: in/johnsugden  # eg. "in/johnsugden"
   stackoverflow: yourlink  # eg. "3943160/daattali"
  
 # Select which links to show in the footer
