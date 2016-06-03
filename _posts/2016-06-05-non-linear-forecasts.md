@@ -30,23 +30,37 @@ The only problem of chopping out 2014 is that I now have less data to learn from
 
 ## ARIMA
 
-...
+```r
+library(forecast)
+auto.arima()
+```
 
 ## Holt
 
-...
+```r
+library(forecast)
+holt()
+```
 
 ## TBATS
 
-...
+```r
+library(forecast)
+tbats()
+```
 
 ## Neural Network
 
-...
+```r
+library(forecast)
+nnetar()
+```
 
 ## MARS
 
-...
+```r
+library(earth)
+```
 
 ## Conclusion
 
