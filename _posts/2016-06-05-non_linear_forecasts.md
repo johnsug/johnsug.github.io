@@ -30,22 +30,24 @@ The only problem of chopping out 2014 is that I now have less data to learn from
 
 ## ARIMA
 
+...
+
 ## Holt
+
+...
 
 ## TBATS
 
+...
+
 ## Neural Network
+
+...
 
 ## MARS
 
-
+...
 
 ## Conclusion
 
 Modeling weight loss is one thing. Actually losing weight (to say nothing about keeping it off) is another. So, where do I expect my weight to be by the end of the year? I imagine I'll gain some weight back, but I intent to maintain something between 160 and 170. This might prove to be more difficult. The rececnt [Biggest Loser weight loss](http://www.scientificamerican.com/article/6-years-after-the-biggest-loser-metabolism-is-slower-and-weight-is-back-up/) study suggests that rapid weight loss (more than the suggested 1-2 pounds per week) is harmful to ones metabolism. 
-
-
-
-
-
-
