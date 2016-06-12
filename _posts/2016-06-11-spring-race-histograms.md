@@ -14,7 +14,8 @@ My favorite race of the spring, despite it being something like 35 degrees outsi
 ![Rock the Parkway](https://raw.githubusercontent.com/johnsug/johnsug.github.io/master/_posts/race_histograms/2016-parkway-histograms.png)
 
 I placed 147 / 263 in my division (or, was in the 44th percentile) and placed 1172 / 4226 (72 percentile) overall.
-<br><br>
+
+---
 
 ### Garmin [2:04:06]
 
@@ -23,7 +24,8 @@ I felt really good at the first of the race, but didn't do as well as I would ha
 ![Garmin](https://raw.githubusercontent.com/johnsug/johnsug.github.io/master/_posts/race_histograms/2016-garmin-histograms.png)
 
 I placed 67 / 111 in my division (40th percentile) and placed 593 / 2038 overall (71st percentile).
-<br><br>
+
+---
 
 ### Running with the Cows [1:54:14]
 
@@ -32,7 +34,8 @@ The week before, I thought I was going to PR in this race (sub 1:50:00), until I
 ![Running with the Cows](https://raw.githubusercontent.com/johnsug/johnsug.github.io/master/_posts/race_histograms/2016-cows-histograms.png)
 
 I placed 67 / 111 in my division (40th percentile) and placed 269 / 1388 overall (81st percentile).
-<br><br>
+
+---
 
 ### Overall [5:53:37 / 1:57:53 average]
 
