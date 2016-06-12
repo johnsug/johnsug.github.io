@@ -13,7 +13,7 @@ My favorite race of the spring, despite it being something like 35 degrees outsi
 
 ![Rock the Parkway](https://raw.githubusercontent.com/johnsug/johnsug.github.io/master/_posts/race_histograms/2016-parkway-histograms.png)
 
-I placed 147 / 263 in my division (or, was in the 44th percentile) and placed 1172 / 4226 overall.
+I placed 147 / 263 in my division (or, was in the 44th percentile) and placed 1172 / 4226 (72 percentile) overall.
 
 
 ### Garmin [2:04:06]
