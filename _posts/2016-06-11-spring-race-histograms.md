@@ -19,7 +19,7 @@ I placed 147 / 263 in my division (or, was in the 44th percentile) and placed 11
 
 ### Garmin [2:04:06]
 
-I felt really good at the first of the race, but didn't do as well as I would have liked. This was due in part to this race happening one week after Rock the Parkway. I really liked the course (they changed it from last year). I hope to do the full Garmin marathon in 2017.
+I felt really good at the first of the race, but didn't do as well as I would have liked. This was due in part to this race happening one week after Rock the Parkway, and partly due to some hills towards the end of the race that really drained me. That being said, I really liked the course (they changed it up from last year). I'm planning on doing the full Garmin marathon next year.
 
 ![Garmin](https://raw.githubusercontent.com/johnsug/johnsug.github.io/master/_posts/race_histograms/2016-garmin-histograms.png)
 
