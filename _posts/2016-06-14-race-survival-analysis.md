@@ -29,7 +29,7 @@ The first race (Rock the Parkway) population is definitely shifted to the left o
 
 The p-value test of significance for the survival curve is less than 0.01%, meaning there is a very low likelihood that the differential between the two survival curves is erroneous. As the survival plot illustrates, not only were Parkway runners faster on average, they were faster consistently. I suppose this could be attributed to the flatter course and slightly younger runners participating.
 
-But, my age didn't change over the seven days between the races, so what was my excuse? To dig deeper, I looked at just the 614 runners who completed both races. While smaller cohort size reduces the statistical power of my analysis, we should still have a sufficient population to study statistically.
+But, my age didn't change over the seven days between the races, so what was my excuse? Can I quantify my level of fatigue? To dig deeper, I looked at just the 614 runners who completed both races. While smaller cohort size reduces the statistical power of my analysis, we should still have a sufficient population to study statistically.
 
 The average completion times, for those who ran both races, are as follows:
 
@@ -42,8 +42,10 @@ These average completion times were much closer, differing by just two minutes. 
 
 ![Box Plot](https://raw.githubusercontent.com/johnsug/johnsug.github.io/master/_posts/race_survival_analysis/2016-survival-boxplot-02.png)
 
+The box plot shows that the average times are much closer, however there are still a few outliers during the Garmin race. The condensed gap between the two races is further highlighted in the survival curve plot:
+
 ![Survival Curve](https://raw.githubusercontent.com/johnsug/johnsug.github.io/master/_posts/race_survival_analysis/2016-survival-curve-02.png)
 
-In fact, there is a much greater chance that the 2 minute differential could be attributed to noise in the data. The p-value test of the survival model, while still being considering statisticall significant, is much higher than what we saw earlier. Perhaps most runners were adequately conditioned to run two half marathons, back to back (with me being an outlier).
+In fact, there is a much greater chance that the 2 minute differential could be attributed to noise in the data. The p-value test of the survival model, while still being considering statisticall significant, is much higher than what we saw earlier. Perhaps most runners were adequately conditioned to run two half marathons, back to back (with my larger differential suggesting that I was a bit of an outlier, or at least not as conditioned as others in my cohort).
 
-In conclusion, the first race (Rock the Parkway) appears to be a slightly easier race than the second (Garmin). Perhaps that, in part, influenced more people to run it, leading to the 9 minute average differential between the two races. On average, those who ran both races had their half marathon times drop by 2 minutes the second week. As my time dropped 9 minutes, 2 could be accounted to the increased race difficulty, and I suppose 7 minutes to the additional fatigue I was experiencing that day.
+In conclusion, the first race (Rock the Parkway) appears to be a slightly easier race than the second (Garmin). Perhaps that, in part, influenced more people to run it, leading to the 9 minute average differential between the two races. On average, those who ran both races had their half marathon times increase by 2 minutes the second week. As my time increased by 9 minutes, 2 could be accounted to the increased race difficulty, and the remaining 7 minutes could be attributed to the fatigue I was experiencing that day.
