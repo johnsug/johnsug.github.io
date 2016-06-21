@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring 2016 Race Histograms
+title: Half-Marathon Time-to-Completion Histograms
 ---
 
 I'm starting this blog off by playing to my strengths: evaluating myself :)
