@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Spring 2016 Name Text Mining
+title: Half-Marathon Runner Names 
+subtitle: Text mining / frequency analysis of runners' first names
 ---
 
 I started this blog to practice text mining and spacial analysis. These next two posts will help me practice.
