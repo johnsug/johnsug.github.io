@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Spring 2016 Race Survival Analysis
+title: Half-Marathon Survival Analysis
 ---
 
 As I had already compiled a rich data set from my last post, I wanted to use it again and use [survival analysis](https://en.wikipedia.org/wiki/Survival_analysis) to contrast the first two races of the [Heartland 39.3 half marathon series](http://www.heartland393.com) -- the Rock the Parkway and Garmin half marathons (which were one week apart).
 
-Specifically, I set out to compare the two races themselves. My time was nine minutes slower the second week, but I don't if this was due to personal reasons (e.g., I wasn't completely recovered from the week before), external reasons (e.g. the terran was less flat and the hill at the end was dishearting), or a combination of the two.
+Specifically, I set out to compare the two races themselves. My half-marathon time was nine minutes slower the second week, but I don't if this was due to personal reasons (e.g., I wasn't completely recovered from the week before), external reasons (e.g. the terrain was less flat and the hill at the end was dishearting), or a combination of the two.
 
 A few quick summary statistics:
 
