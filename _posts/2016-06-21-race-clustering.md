@@ -18,4 +18,4 @@ Not wanting to waste my Python coding, I quickly transformed my data into a spac
 
 ![Spacial Map](https://raw.githubusercontent.com/johnsug/johnsug.github.io/master/_posts/race_failed_clusters/leaflet_plot.png)
 
-The majority of the points are around the greater Kansas City area (no surprise, this half marathon took place in Kansas City), with a few notable outliers in Mexico, Seattle, Manitobia, Maine, and Florida.
+The majority of the points are around the heartland region of the United States (no surprise here as this half marathon took place in Kansas City), with a outliers along the coasts, up in Manitobia, Canada, and down in Mexico.
