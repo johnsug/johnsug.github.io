@@ -1,11 +1,10 @@
 
 # libraries
-library(cluster)
 library(leaflet)
 library(ggplot2)
 
 # import
-d <- subset(read.csv("race_data.csv", stringsAsFactors=F), Race=="Parkway")
+d <- read.csv("race_data.csv", stringsAsFactors=F)
 d <- subset(d, Lat!="#N/A")    # drop missing values
 d <- subset(d, Lat!="#VALUE!") # etc
 
