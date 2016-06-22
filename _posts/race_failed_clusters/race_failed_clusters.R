@@ -18,7 +18,7 @@ d$Time <- as.numeric(substr(d$Time,1,1)) + as.numeric(substr(d$Time,3,4))/60 + a
 plot(d$Time, d$Dist)
 
 # plot for the blog
-png("failed_cluster_scatter.png", height=360, width=360)
+png("failed_cluster_scatter.png")
 ggplot(d, aes(x=Time, y=Dist)) + geom_point() + geom_jitter(color="royalblue", alpha=.8) + 
   labs(x="Run Time (Hours)", y="Distance Traveled to Race (Miles)")
 dev.off()
