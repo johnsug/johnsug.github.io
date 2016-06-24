@@ -115,7 +115,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #71dce5;                   /* link hovor color: cyan */
+  color: #0085a1;                   /* link hovor color: cyan (default -- don't like it much...) */
 }
 
 @media only screen and (min-width: 768px) {
