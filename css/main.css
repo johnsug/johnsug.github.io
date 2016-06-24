@@ -108,14 +108,14 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #404040;                   /* grey (default) */ 
+  color: #404040;                   /* link color: grey (default) */ 
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #123564;                   /* dark navy */
+  color: #71dce5;                   /* link hovor color: cyan */
 }
 
 @media only screen and (min-width: 768px) {
