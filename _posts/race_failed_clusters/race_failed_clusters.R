@@ -24,6 +24,14 @@ ggplot(d, aes(x=Time, y=Dist)) + geom_point() + geom_jitter(color="royalblue", a
   theme(axis.title=element_text(size=rel(1.5)), axis.text=element_text(size=rel(1.25)))
 dev.off()
 
-## leaflet plot
-leaflet(data=d) %>% addTiles() %>% addCircleMarkers(~Long, ~Lat, stroke=F, color="royalblue", fillOpacity=0.75, radius=4)
+# correlation between race time and distance traveled
+cor(d$Time, d$Dist)
 
+# look at percentiles
+quantile(d$Dist, c(.05*(0:20))
+
+# clean values of interest, drawn from empiracal distribution
+quantile(d$Dist, c(15, 40))
+
+# leaflet plot
+leaflet(data=d) %>% addTiles() %>% addCircleMarkers(~Long, ~Lat, stroke=F, color="royalblue", fillOpacity=0.75, radius=4)
