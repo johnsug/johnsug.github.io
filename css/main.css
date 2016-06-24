@@ -94,8 +94,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #fe9000;
-  border-bottom: 1px solid #e48100;
+  background: #fe9000;              /* orange */
+  border-bottom: 1px solid #e48100; /* burnt orange */
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -108,14 +108,14 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #404040;
+  color: #404040;                   /* grey (default) */ 
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: #123564;                   /* dark navy */
 }
 
 @media only screen and (min-width: 768px) {
