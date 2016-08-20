@@ -3,7 +3,7 @@ layout: post
 title: Half-Marathon Time-to-Completion Histograms
 ---
 
-I'm starting this blog off by playing to my strengths: evaluating myself :)
+I wanted to start a blog in order to practice data mining, spacial analysis, and data journalism. Most of my posts will involve personal fitness, as I love to run and anaylze my exercise activity.
 
 ![Heartland](http://www.heartland393.com/wp-content/themes/heartland/images/newlogo.png)
 
