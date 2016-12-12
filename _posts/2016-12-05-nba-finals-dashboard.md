@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NBA Finals Dashboard
-subtitle: Trying to recreate a VizWiz dashboard
+subtitle: My attempt at re-creating a VizWiz dashboard
 ---
 
 One of my new favorite blogs to follow is http://www.vizwiz.com, written by Andy Kriebel. I was going to call Andy a Tableau ninja, but realized he has a legit "tableau title" -- [Zen Master](http://www.tableau.com/ZenMasters) -- which is pretty cool. (I guess calling yourself a "rockstar" or a "ninja" doesn't cut it these days...) 
