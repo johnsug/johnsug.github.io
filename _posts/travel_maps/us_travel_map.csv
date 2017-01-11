@@ -12,6 +12,7 @@ Utah,Wasatch,Visited
 Utah,Uintah,Visited
 Utah,Grand,Visited
 Utah,Washington,Visited
+Utah,San Juan,Drive Thru
 Idaho,Bear Lake,Visited
 Idaho,Oneida,Visited
 Idaho,Bannock,Visited
@@ -34,13 +35,22 @@ Missouri,Vernon,Drive Thru
 Missouri,Barton,Drive Thru
 Missouri,Jasper,Drive Thru
 Missouri,Lawrence,Drive Thru
-Missouri,Saint Charges,Visited
-Missouri,Saint Louis,Visited
+Missouri,St Charles,Visited
+Missouri,St Louis,Visited
 Missouri,Boone,Visited
-Missouri,Green,Visited
+Missouri,Greene,Visited
 Georgia,Cobb,Lived
 Georgia,Douglas,Visited
+Georgia,Carroll,Visited
 Georgia,Fulton,Visited
+Georgia,Gwinnett,Visited
+Georgia,Forsyth,Drive Thru
+Georgia,DeKalb,Visited
+Georgia,Bartow,Drive Thru
+Tennessee,Hamilton,Visited
+Tennessee,Davidson,Visited
+Tennessee,Williamson,Visited
+Tennessee,Knox,Visited
 Texas,Denton,Lived
 Texas,Collin,Visited
 California,San Francisco,Visited
