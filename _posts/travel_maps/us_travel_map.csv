@@ -1,57 +1,62 @@
-State,County,Tagging
-Utah,Davis,Lived
-Utah,Salt Lake,Visited
-Utah,Weber,Visited
-Utah,Morgan,Visited
-Utah,Cache,Visited
-Utah,Box Elder,Drive Thru
-Utah,Tooele,Drive Thru
-Utah,Utah,Visited
-Utah,Summit,Visited
-Utah,Wasatch,Visited
-Utah,Uintah,Visited
-Utah,Grand,Visited
-Utah,Washington,Visited
-Utah,San Juan,Drive Thru
-Idaho,Bear Lake,Visited
-Idaho,Oneida,Visited
-Idaho,Bannock,Visited
-Idaho,Bingham,Visited
-Idaho,Bonneville,Visited
-Idaho,Jefferson,Visited
-Idaho,Madison,Lived
-Idaho,Teton,Visited
-Idaho,Fremont,Visited
-Kansas,Johnson,Lived
-Kansas,Miami,Drive Thru
-Kansas,Douglas,Visited
-Kansas,Wyandotte,Drive Thru
-Missouri,Jackson,Lived
-Missouri,Clay,Visited
-Missouri,Platte,Visited
-Missouri,Cass,Drive Thru
-Missouri,Bates,Drive Thru
-Missouri,Vernon,Drive Thru
-Missouri,Barton,Drive Thru
-Missouri,Jasper,Drive Thru
-Missouri,Lawrence,Drive Thru
-Missouri,St Charles,Visited
-Missouri,St Louis,Visited
-Missouri,Boone,Visited
-Missouri,Greene,Visited
-Georgia,Cobb,Lived
-Georgia,Douglas,Visited
-Georgia,Carroll,Visited
-Georgia,Fulton,Visited
-Georgia,Gwinnett,Visited
-Georgia,Forsyth,Drive Thru
-Georgia,DeKalb,Visited
-Georgia,Bartow,Drive Thru
-Tennessee,Hamilton,Visited
-Tennessee,Davidson,Visited
-Tennessee,Williamson,Visited
-Tennessee,Knox,Visited
-Texas,Denton,Lived
-Texas,Collin,Visited
-California,San Francisco,Visited
-California,Orange,Visited
+State,County,Tagging,Notes
+Utah,Davis,Lived,
+Utah,Salt Lake,Visited,
+Utah,Weber,Visited,
+Utah,Morgan,Visited,
+Utah,Cache,Visited,
+Utah,Box Elder,Drive Thru,
+Utah,Tooele,Drive Thru,
+Utah,Utah,Visited,
+Utah,Summit,Visited,
+Utah,Wasatch,Visited,
+Utah,Uintah,Visited,
+Utah,Grand,Visited,
+Utah,Washington,Visited,
+Utah,San Juan,Drive Thru,
+Idaho,Bear Lake,Visited,
+Idaho,Oneida,Visited,
+Idaho,Bannock,Visited,
+Idaho,Bingham,Visited,
+Idaho,Bonneville,Visited,
+Idaho,Jefferson,Visited,
+Idaho,Madison,Lived,
+Idaho,Teton,Visited,
+Idaho,Fremont,Visited,
+Kansas,Johnson,Lived,
+Kansas,Miami,Drive Thru,
+Kansas,Douglas,Visited,
+Kansas,Wyandotte,Drive Thru,
+Missouri,Jackson,Lived,
+Missouri,Clay,Visited,
+Missouri,Platte,Visited,
+Missouri,Cass,Drive Thru,
+Missouri,Bates,Drive Thru,
+Missouri,Vernon,Drive Thru,
+Missouri,Barton,Drive Thru,
+Missouri,Jasper,Drive Thru,
+Missouri,Lawrence,Drive Thru,
+Missouri,St Charles,Visited,
+Missouri,St Louis,Visited,
+Missouri,Boone,Visited,
+Missouri,Greene,Visited,
+Georgia,Cobb,Lived,
+Georgia,Douglas,Visited,
+Georgia,Carroll,Visited,
+Georgia,Fulton,Visited,
+Georgia,Gwinnett,Visited,
+Georgia,Forsyth,Drive Thru,
+Georgia,DeKalb,Visited,
+Georgia,Bartow,Drive Thru,
+Alabama,Jefferson,Visited,
+Tennessee,Hamilton,Visited,
+Tennessee,Davidson,Visited,
+Tennessee,Williamson,Visited,
+Tennessee,Sevier,Visited,Gatlinburg
+Tennessee,Knox,Visited,
+Texas,Denton,Lived,
+Texas,Collin,Visited,
+Texas,Bexar,Visited,
+California,San Francisco,Visited,
+California,Orange,Visited,
+California,Sacramento,Visited,
+California,Placer,Visited,
