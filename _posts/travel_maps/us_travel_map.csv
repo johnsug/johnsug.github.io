@@ -1,10 +1,29 @@
 State,County,Tagging
 Utah,Davis,Lived
 Utah,Salt Lake,Visited
+Utah,Weber,Visited
+Utah,Morgan,Visited
+Utah,Cache,Visited
+Utah,Box Elder,Drive Thru
+Utah,Tooele,Drive Thru
+Utah,Utah,Visited
+Utah,Summit,Visited
+Utah,Wasatch,Visited
+Utah,Uintah,Visited
+Utah,Grand,Visited
+Utah,Washingonton,Visited
 Idaho,Madison,Lived
 Kansas,Johnson,Lived
 Missouri,Jackson,Lived
+Missouri,Clay,Visited
+Missouri,Platte,Visited
+Missouri,Saint Charges,Visited
+Missouri,Saint Louis,Visited
+Missouri,Boone,Visited
+Missouri,Green,Visited
 Georgia,Cobb,Lived
+Georgia,Douglas,Visited
+Georgia,Fulton,Visited
 Texas,Denton,Lived
 Texas,Collin,Visited
 California,San Francisco,Visited
