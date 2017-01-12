@@ -20,10 +20,23 @@ Utah,Beaver,Drive Thru,To St. George
 Utah,Iron,Drive Thru,To St. George
 Utah,Washington,Visited,St. George
 Utah,San Juan,Drive Thru,
-California,San Francisco,Visited,
-California,San Mateo,Drive Thru,SF conferences
+Arizona,Mohave,Drive Thru,To California
+Arizona,Yavapai,Drive Thru,To Phoenix
+Arizona,Maricopa,Visited,Phoenix
+Nevada,Clark,Visited,Las Vegas
+Nevada,Elko,Drive Thru,To Roseville
+Nevada,Eureka,Drive Thru,To Roseville
+Nevada,Lander,Drive Thru,To Roseville
+Nevada,Humbolt,Drive Thru,To Roseville
+Nevada,Pershing,Drive Thru,To Roseville
+Nevada,Churchill,Drive Thru,To Roseville
+Nevada,Storey,Drive Thru,To Roseville
+Nevada,Washoe,Visited,Reno/To Roseville
+California,San Bernardino,Drive Thru,Six Flags/Knoxberry Park trip
 California,Orange,Visited,Six Flags/Knoxberry Park trip
 California,Los Angeles,Visited,Six Flags/Knoxberry Park trip
+California,San Francisco,Visited,
+California,San Mateo,Drive Thru,SF conferences
 California,Sacramento,Visited,Roseville trip
 California,Placer,Visited,Roseville trip
 Idaho,Bear Lake,Visited,
@@ -73,7 +86,7 @@ Alabama,Jefferson,Visited,Birmingham Trip
 Tennessee,Knox,Visited,UT Visit
 Tennessee,Davidson,Visited,Nashville Trip
 Tennessee,Williamson,Visited,Nashville Trip
-Tennessee,Hamilton,Visited,Chattanooga (Ragnar)
+Tennessee,Hamilton,Visited,Chattanooga/Ragnar
 Tennessee,Marion,Drive Thru,Ragnar
 Tennessee,Grundy,Drive Thru,Ragnar
 Tennessee,Franklin,Drive Thru,Ragnar
@@ -85,8 +98,8 @@ Kentucky,Jefferson,Visited,Humana Househunting Trip
 Kentucky,Oldham,Visited,Humana Househunting Trip
 Kansas,Johnson,Lived,2014-2015
 Kansas,Miami,Drive Thru,
-Kansas,Douglas,Visited,
-Kansas,Wyandotte,Drive Thru,
+Kansas,Douglas,Visited,Lawrence/Color Run
+Kansas,Wyandotte,Visited,Apple Picking
 Minnesota,Ramsey,Visited,Travelers
 Minnesota,Washington,Drive Thru,Travelers
 Minnesota,Hennepin,Drive Thru,Travelers
