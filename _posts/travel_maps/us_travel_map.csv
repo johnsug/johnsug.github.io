@@ -52,13 +52,17 @@ Missouri,St Charles,Visited,
 Missouri,St Louis,Visited,
 Missouri,Boone,Visited,
 Georgia,Cobb,Lived,2009-2014
+Georgia,Paulding,Visited,
 Georgia,Douglas,Visited,
-Georgia,Carroll,Visited,
-Georgia,Fulton,Visited,
-Georgia,Gwinnett,Visited,
-Georgia,Forsyth,Drive Thru,
-Georgia,DeKalb,Visited,
-Georgia,Bartow,Drive Thru,
+Georgia,Carroll,Visited,Carrolton
+Georgia,Fulton,Visited,ATL
+Georgia,Gwinnett,Visited,Lawrenceville
+Georgia,Forsyth,Visited,Cumming
+Georgia,DeKalb,Visited,Decater
+Georgia,Bartow,Drive Thru,To Chattanooga
+Georgia,Gordon,Drive Thru,To Chattanooga
+Georgia,Whitfield,Drive Thru,To Chattanooga
+Georgia,Catoosa,Drive Thru,To Chattanooga
 Georgia,Cherokee,Drive Thru,To Ellijay
 Georgia,Pickens,Drive Thru,To Ellijay
 Georgia,Gilmer,Visited,Ellijay
@@ -89,4 +93,6 @@ Minnesota,Hennepin,Drive Thru,Travelers
 Maryland,,Visited,Actuarial University
 Maryland,,Visited,Actuarial University
 Connecticut,,Visited,Actuarial Forum
-Indianapolis,,Visited,Activate
+Indianapolis,Marion,Drive Thru,Activate
+Indianapolis,Hamilton,Visited,Activate
+
