@@ -57,9 +57,16 @@ Idaho,Jefferson,Visited,
 Idaho,Madison,Lived,
 Idaho,Teton,Visited,
 Idaho,Fremont,Visited,
-Colorado,,Drive Thru,To Texas
-Colorado,,Drive Thru,To Texas
-Colorado,,Drive Thru,To Texas
+Colorado,Weld,Visited,Greeley
+Colorado,Dolores,Drive Thru,To Texas
+Colorado,Montezuma,Drive Thru,To Texas
+Colorado,Larimer,Drive Thru,Move to GA
+Colorado,Boulder,Drive Thru,Move to GA
+Colorado,Jefferson,Visited,Golden/Move to GA
+Colorado,Arapahoe,Drive Thru,Move to GA
+Colorado,Elbert,Drive Thru,Move to GA
+Colorado,Lincoln,Drive Thru,Move to GA
+Colorado,Kit Carson,Drive Thru,Move to GA
 New Mexico,San Juan,Drive Thru,To Texas
 New Mexico,Sandoval,Drive Thru,To Texas
 New Mexico,Bernalillo,Drive Thru,Albuquerque/to Texas
@@ -73,7 +80,6 @@ Texas,Armstrong,Drive Thru,To Texas
 Texas,Donley,Drive Thru,To Texas
 Texas,Hall,Drive Thru,To Texas
 Texas,Childress,Drive Thru,To Texas
-Texas,Cottle,Drive Thru,To Texas
 Texas,Hardeman,Drive Thru,To Texas
 Texas,Wilbarger,Drive Thru,To Texas
 Texas,Wichita,Drive Thru,To Texas
@@ -96,6 +102,23 @@ Texas,Lubbock,Drive Thru,From Texas
 Texas,Hale,Drive Thru,From Texas
 Texas,Swisher,Drive Thru,From Texas
 Texas,Bexar,Visited,USAA
+Kansas,Sherman,Drive Thru,Move to GA
+Kansas,Thomas,Drive Thru,Move to GA
+Kansas,Gove,Drive Thru,Move to GA
+Kansas,Trego,Drive Thru,Move to GA
+Kansas,Ellis,Drive Thru,Move to GA
+Kansas,Russell,Drive Thru,Move to GA
+Kansas,Ellsworth,Drive Thru,Move to GA
+Kansas,Saline,Drive Thru,Move to GA
+Kansas,Dickinson,Drive Thru,Move to GA
+Kansas,Geary,Drive Thru,Move to GA
+Kansas,Riley,Drive Thru,Move to GA
+Kansas,Wabaunsee,Drive Thru,Move to GA
+Kansas,Shawnee,Drive Thru,Move to GA
+Kansas,Johnson,Lived,2014-2015
+Kansas,Miami,Drive Thru,
+Kansas,Douglas,Visited,Lawrence/Color Run
+Kansas,Wyandotte,Visited,Apple Picking
 Missouri,Platte,Visited,Move to GA
 Missouri,Cass,Drive Thru,Move to GA
 Missouri,Bates,Drive Thru,Move to GA
@@ -141,10 +164,6 @@ Tennessee,Rutherford,Drive Thru,Ragnar
 Tennessee,Sevier,Visited,Gatlinburg Trip
 Kentucky,Jefferson,Visited,Humana Househunting Trip
 Kentucky,Oldham,Visited,Humana Househunting Trip
-Kansas,Johnson,Lived,2014-2015
-Kansas,Miami,Drive Thru,
-Kansas,Douglas,Visited,Lawrence/Color Run
-Kansas,Wyandotte,Visited,Apple Picking
 Minnesota,Ramsey,Visited,Travelers
 Minnesota,Washington,Drive Thru,Travelers
 Minnesota,Hennepin,Drive Thru,Travelers
