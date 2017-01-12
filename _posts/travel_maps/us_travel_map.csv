@@ -3,15 +3,22 @@ Utah,Davis,Lived,
 Utah,Salt Lake,Visited,
 Utah,Weber,Visited,
 Utah,Morgan,Visited,
-Utah,Cache,Visited,
-Utah,Box Elder,Drive Thru,
+Utah,Cache,Visited,USU
+Utah,Box Elder,Drive Thru,Brigham City
 Utah,Tooele,Drive Thru,
-Utah,Utah,Visited,
-Utah,Summit,Visited,
-Utah,Wasatch,Visited,
-Utah,Uintah,Visited,
-Utah,Grand,Visited,
-Utah,Washington,Visited,
+Utah,Utah,Visited,Happy Valley
+Utah,Summit,Visited,Park City
+Utah,Wasatch,Visited,Heber City
+Utah,Duchesne,Drive Thru,To Vernal
+Utah,Uintah,Visited,Vernal
+Utah,Carbon,Drive Thru,To Moab
+Utah,Emery,Drive Thru,To Moab
+Utah,Grand,Visited,Moab
+Utah,Juab,Drive Thru,To St. George
+Utah,Millard,Drive Thru,To St. George
+Utah,Beaver,Drive Thru,To St. George
+Utah,Iron,Drive Thru,To St. George
+Utah,Washington,Visited,St. George
 Utah,San Juan,Drive Thru,
 California,San Francisco,Visited,
 California,San Mateo,Drive Thru,SF conferences
@@ -52,6 +59,9 @@ Georgia,Gwinnett,Visited,
 Georgia,Forsyth,Drive Thru,
 Georgia,DeKalb,Visited,
 Georgia,Bartow,Drive Thru,
+Georgia,Cherokee,Drive Thru,To Ellijay
+Georgia,Pickens,Drive Thru,To Ellijay
+Georgia,Gilmer,Visit,Ellijay
 Alabama,Cleburne,Drive Thru,Birmingham Trip
 Alabama,Talladega,Drive Thru,Birmingham Trip
 Alabama,St Clair,Drive Thru,Birmingham Trip
