@@ -61,7 +61,7 @@ Georgia,DeKalb,Visited,
 Georgia,Bartow,Drive Thru,
 Georgia,Cherokee,Drive Thru,To Ellijay
 Georgia,Pickens,Drive Thru,To Ellijay
-Georgia,Gilmer,Visit,Ellijay
+Georgia,Gilmer,Visited,Ellijay
 Alabama,Cleburne,Drive Thru,Birmingham Trip
 Alabama,Talladega,Drive Thru,Birmingham Trip
 Alabama,St Clair,Drive Thru,Birmingham Trip
@@ -83,10 +83,10 @@ Kansas,Johnson,Lived,2014-2015
 Kansas,Miami,Drive Thru,
 Kansas,Douglas,Visited,
 Kansas,Wyandotte,Drive Thru,
-Minnesota,Ramsey,Visit,Travelers
+Minnesota,Ramsey,Visited,Travelers
 Minnesota,Washington,Drive Thru,Travelers
 Minnesota,Hennepin,Drive Thru,Travelers
-Maryland,,Visit,Actuarial University
-Maryland,,Visit,Actuarial University
-Connecticut,,Visit,Actuarial Forum
-Indianapolis,,Visit,Activate
+Maryland,,Visited,Actuarial University
+Maryland,,Visited,Actuarial University
+Connecticut,,Visited,Actuarial Forum
+Indianapolis,,Visited,Activate
