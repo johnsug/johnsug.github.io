@@ -25,10 +25,10 @@ Wyoming,Uinta,Drive Thru,Evanston
 Wyoming,Lincoln,Visited,Star Valley
 Wyoming,Teton,Visited,Jackson Hole
 Wyoming,Park,Visited,Yellowstone
-Wyoming,Sweetwater,Drive Thru,To Colorado
-Wyoming,Carbon,Drive Thru,To Colorado
-Wyoming,Albany,Drive Thru,To Colorado
-Wyoming,Laramie,Drive Thru,To Colorado
+Wyoming,Sweetwater,Drive Thru,Move to GA
+Wyoming,Carbon,Drive Thru,Move to GA
+Wyoming,Albany,Drive Thru,Move to GA
+Wyoming,Laramie,Drive Thru,Move to GA
 Arizona,Mohave,Drive Thru,To California
 Arizona,Yavapai,Drive Thru,To Phoenix
 Arizona,Maricopa,Visited,Phoenix
@@ -57,11 +57,45 @@ Idaho,Jefferson,Visited,
 Idaho,Madison,Lived,
 Idaho,Teton,Visited,
 Idaho,Fremont,Visited,
+Colorado,,Drive Thru,To Texas
+Colorado,,Drive Thru,To Texas
+Colorado,,Drive Thru,To Texas
+New Mexico,San Juan,Drive Thru,To Texas
+New Mexico,Sandoval,Drive Thru,To Texas
+New Mexico,Bernalillo,Drive Thru,Albuquerque/to Texas
+New Mexico,Torrance,Drive Thru,To Texas
+New Mexico,Guadalupe,Drive Thru,To Texas
+New Mexico,Quay,Drive Thru,To Texas
+Texas,Deaf Smith,Drive Thru,To Texas
+Texas,Oldham,Drive Thru,To Texas
+Texas,Randall,Drive Thru,To Texas
+Texas,Armstrong,Drive Thru,To Texas
+Texas,Donley,Drive Thru,To Texas
+Texas,Hall,Drive Thru,To Texas
+Texas,Childress,Drive Thru,To Texas
+Texas,Cottle,Drive Thru,To Texas
+Texas,Hardeman,Drive Thru,To Texas
+Texas,Wilbarger,Drive Thru,To Texas
+Texas,Wichita,Drive Thru,To Texas
+Texas,Archer,Drive Thru,To Texas
+Texas,Clay,Drive Thru,To Texas
+Texas,Montague,Drive Thru,To Texas
+Texas,Wise,Drive Thru,To Texas
 Texas,Denton,Lived,
-Texas,Collin,Visited,
-Texas,Bexar,Visited,USAA Interview
-Missouri,Jackson,Lived,2015-2017
-Missouri,Clay,Visited,
+Texas,Collin,Visited,Allen
+Texas,Dallas,Visited,Dallas
+Texas,Jack,Drive Thru,From Texas
+Texas,Young,Drive Thru,From Texas
+Texas,Throckmorton,Drive Thru,From Texas
+Texas,Baylor,Drive Thru,From Texas
+Texas,Knox,Drive Thru,From Texas
+Texas,King,Drive Thru,From Texas
+Texas,Dickens,Drive Thru,From Texas
+Texas,Crosby,Drive Thru,From Texas
+Texas,Lubbock,Drive Thru,From Texas
+Texas,Hale,Drive Thru,From Texas
+Texas,Swisher,Drive Thru,From Texas
+Texas,Bexar,Visited,USAA
 Missouri,Platte,Visited,Move to GA
 Missouri,Cass,Drive Thru,Move to GA
 Missouri,Bates,Drive Thru,Move to GA
@@ -69,6 +103,8 @@ Missouri,Vernon,Drive Thru,Move to GA
 Missouri,Barton,Drive Thru,Move to GA
 Missouri,Jasper,Drive Thru,Move to GA
 Missouri,Greene,Visited,Move to GA
+Missouri,Jackson,Lived,2015-2017
+Missouri,Clay,Visited,
 Missouri,Lawrence,Drive Thru,
 Missouri,St Charles,Visited,
 Missouri,St Louis,Visited,
@@ -112,8 +148,8 @@ Kansas,Wyandotte,Visited,Apple Picking
 Minnesota,Ramsey,Visited,Travelers
 Minnesota,Washington,Drive Thru,Travelers
 Minnesota,Hennepin,Drive Thru,Travelers
+Indiana,Marion,Drive Thru,Activate
+Indiana,Hamilton,Visited,Activate
 Maryland,,Visited,Actuarial University
 Maryland,,Visited,Actuarial University
 Connecticut,,Visited,Actuarial Forum
-Indianapolis,Marion,Drive Thru,Activate
-Indianapolis,Hamilton,Visited,Activate
