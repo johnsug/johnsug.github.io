@@ -20,6 +20,15 @@ Utah,Beaver,Drive Thru,To St. George
 Utah,Iron,Drive Thru,To St. George
 Utah,Washington,Visited,St. George
 Utah,San Juan,Drive Thru,
+Utah,Rich,Drive Thru,Star Valley/Jackson Hole
+Wyoming,Uinta,Drive Thru,Evanston
+Wyoming,Lincoln,Visited,Star Valley
+Wyoming,Teton,Visited,Jackson Hole
+Wyoming,Park,Visited,Yellowstone
+Wyoming,Sweetwater,Drive Thru,To Colorado
+Wyoming,Carbon,Drive Thru,To Colorado
+Wyoming,Albany,Drive Thru,To Colorado
+Wyoming,Laramie,Drive Thru,To Colorado
 Arizona,Mohave,Drive Thru,To California
 Arizona,Yavapai,Drive Thru,To Phoenix
 Arizona,Maricopa,Visited,Phoenix
@@ -31,7 +40,7 @@ Nevada,Humbolt,Drive Thru,To Roseville
 Nevada,Pershing,Drive Thru,To Roseville
 Nevada,Churchill,Drive Thru,To Roseville
 Nevada,Storey,Drive Thru,To Roseville
-Nevada,Washoe,Visited,Reno/To Roseville
+Nevada,Washoe,Drive Thru,To Roseville
 California,San Bernardino,Drive Thru,Six Flags/Knoxberry Park trip
 California,Orange,Visited,Six Flags/Knoxberry Park trip
 California,Los Angeles,Visited,Six Flags/Knoxberry Park trip
@@ -108,4 +117,3 @@ Maryland,,Visited,Actuarial University
 Connecticut,,Visited,Actuarial Forum
 Indianapolis,Marion,Drive Thru,Activate
 Indianapolis,Hamilton,Visited,Activate
-
