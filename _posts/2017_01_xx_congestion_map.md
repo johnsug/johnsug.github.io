@@ -9,4 +9,6 @@ A friend shared this list with me, a list of the 100 top worst traffic bottlenec
 
 Anyway, I thought the list would be fun to visualize. I first wrote a script in Python to pull in the GPS coordinates, then plotted using (leaflet)[https://rstudio.github.io/leaflet/] -- my favorite plotting package in R.
 
+http://atri-online.org/wp-content/uploads/2017/01/2017-ATRI-Bottleneck-Brochure.pdf
+
 ![Dashboard Preview](https://...)
